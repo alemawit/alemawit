@@ -4,7 +4,7 @@
 - building interactive websites.
 - ## 🛠️ Skills and Technologies:
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: jQuery, Bootstrap, react 
+- **Frameworks/Libraries**: jQuery, Bootstrap, React 
 - **Tools**: Git, GitHub, VS Code
 
 <!---
