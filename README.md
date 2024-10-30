@@ -6,6 +6,7 @@
 - **Languages**: HTML, CSS, JavaScript
 - **Frameworks/Libraries**: jQuery, Bootstrap, React 
 - **Tools**: Git, GitHub, VS Code
+- **platform**: NodeJS
 
 <!---
 alemawit/alemawit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
